@@ -1,0 +1,1 @@
+[ERROR] Invalid JSON structure in /var/folders/nt/lp2qg6h162v0gwpdsqhcdd0r0000gn/T/tmpofbr237l/bad.json (expected list).
